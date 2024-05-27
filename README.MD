@@ -6,6 +6,6 @@ Ejecutar este comando
 
 
 ´´´
-npm
+npm install
 ´´´
 
